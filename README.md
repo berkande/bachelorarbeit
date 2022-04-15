@@ -3,7 +3,7 @@ Hier befinden sich alle Python-Skripte, die im Rahmen meiner Bachelorarbeit zum 
 Physikalischen Fortgeschrittenenpraktikums am Karlsruher Institut für Technologie verwendet wurden.
 
 Die Datei mit den simulierten B-Felddaten von Christoph Mayer ist zu groß, um hier im Ganzen angehängt werden zu können.
-Diese kann stattdessen auf Christophs Website unter dem folgenden Link heruntergeladen werden:
+Sie kann stattdessen auf Christophs Website unter dem folgenden Link heruntergeladen werden:
 
 https://christoph-mayer.net/uni/1M_B_samples.parquet
 
