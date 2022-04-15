@@ -7,4 +7,5 @@ Sie kann stattdessen auf Christophs Website unter dem folgenden Link heruntergel
 
 https://christoph-mayer.net/uni/1M_B_samples.parquet
 
-Eine "destillierte" Version der B-Felddaten mit nur 100k statt 1Mio samples wird hier dennoch zur Verfügung gestellt.
+Eine "destillierte" Version der B-Felddaten mit nur 100k statt 1Mio samples wird hier dennoch zur Verfügung gestellt
+und ist ebenfalls vollkommen ausreichend.
